@@ -15,3 +15,21 @@ ul {
 .welcome{
 
 }
+.Biology {
+    border: 1px solid #466995;
+    margin: 20px;
+    display: inline-block;
+}
+.Biology:hover {
+    background: #C0D6DF;
+    color: #FFF;
+}
+.AP Biology {
+    border: 1px solid #466995;
+    margin: 20px;
+    display: inline-block;
+}
+.AP Biology:hover {
+    background: #C0D6DF;
+    color: #FFF;
+}
