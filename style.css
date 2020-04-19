@@ -1,4 +1,4 @@
-body{
+body {
     background-color: rgb(68, 65, 65);
     margin: auto;
 }
@@ -9,7 +9,7 @@ header {
     position:fixed
     z-index: 10;
 }
-ul{
+ul {
     text-align: right;
 }
 .welcome{
