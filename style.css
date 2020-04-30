@@ -7,7 +7,7 @@ header {
     background-color: red;
     width: 100%;
     position:fixed
-    z-index: 10;
+   <!-- z-index: 10;-->
 }
 ul {
     text-align: right;
